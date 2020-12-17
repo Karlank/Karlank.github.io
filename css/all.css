@@ -12,7 +12,8 @@
   float: left;
 }
 
-#main .box .pic {
+#main .box .pic  {
+  float: left;
   padding: 10px;
   border: 1px solid #ccc;
   border-radius: 5px;
